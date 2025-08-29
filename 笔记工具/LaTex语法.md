@@ -74,6 +74,8 @@ quad空格---------a \quad b---------一个m的宽度
 ### 括号
 
 1. 大括号 `\{`
+1. 向下取整 `\lfloor x \rfloor` $\lfloor x \rfloor$
+1. 向上取整`\lceil x \rceil` $\lceil x \rceil$
 
 ### 其它
 
