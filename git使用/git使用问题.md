@@ -1,22 +1,3 @@
-+++
-date = '2025-05-22T17:20:11+08:00'
-draft = true
-title = 'Git使用'
-math = ''
-license = ""
-description = ""
-categories = [
-    "开发工具使用"
-]
-tags = [
-    ""
-]
-image = ""
-
-+++
-
-
-
 ## 问题解决
 ### git push 
 #### fatal: unable to access ‘https://github.com/.../.git‘: Could not resolve host: github.com
